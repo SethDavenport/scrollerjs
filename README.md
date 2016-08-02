@@ -1,16 +1,7 @@
-ScrollerJS
-==========
+# scrollerjs-npm
 
-A JavaScript library that helps you build performant UI components for the web.
+A fork of [ScrollerJS](http://scrollerjs.com) published to `npm`.
+No changes have been made to the original apart from picking a package name
+and publishing it.
 
-- Website: [http://scrollerjs.com](http://scrollerjs.com)
-- Documentation: [http://scrollerjs.com/docs/1.0/](http://scrollerjs.com/docs/1.0/)
-- Examples: [http://scrollerjs.com#playground](http://scrollerjs.com#playground)
-
-Instrucctions
-=============
-Under construction...
-
-## License
-See the file [LICENSE](https://github.com/forcedotcom/scrollerjs/blob/master/LICENSE)
-
+Original README file here: https://github.com/forcedotcom/scrollerjs/blob/development/README.md
